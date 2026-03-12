@@ -175,5 +175,5 @@ void deletestudent(){
         printf("Record deleted successfully\n");
     else
         printf("Record not found\n");
-
 }
+
